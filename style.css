@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "chemi ponti";
+    src: url("OldStandardTT-Regular.ttf");
+}
+.h2{
+    font-family:"chemi ponti";
+}
+@font-face {
+    font-family: "chemi ponti";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+}
+.p{
+    font-family: "chemi ponti";
+}
+.a{
+    font-family: "chemi ponti";
+}
